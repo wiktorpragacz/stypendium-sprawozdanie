@@ -83,12 +83,7 @@
     "category": "programowanie",
     "difficulty": "średni"
   },
-  {
-    "question": "skibidi toaleta",
-    "answer": "tak",
-    "category": "historia",
-    "difficulty": "trudny"
-  },
+
   {
     "question": "Na jakim kontynencie leży Egipt?",
     "answer": "Afryka",
@@ -136,17 +131,6 @@
     "answer": "Instrukcja powtarzająca blok kodu określoną liczbę razy",
     "category": "programowanie",
     "difficulty": "średni"
-  },
-  {
-    "question": "wow",
-    "answer": "wow",
-    "category": "geografia",
-    "difficulty": "trudny"
-  },
-  {
-    "question": "wow",
-    "answer": "xdd",
-    "category": "historia",
-    "difficulty": "łatwy"
   }
+
 ]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Stolica Polski?",
+    "answer": "Warszawa",
+    "category": "geografia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Najwyższa góra świata?",
+    "answer": "Mount Everest",
+    "category": "geografia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Najdłuższa rzeka w Europie?",
+    "answer": "Wołga",
+    "category": "geografia",
+    "difficulty": "średni"
+  },
+  {
+    "question": "Państwo o największej liczbie ludności?",
+    "answer": "Chiny",
+    "category": "geografia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "W którym roku wybuchła II wojna światowa?",
+    "answer": "1939",
+    "category": "historia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Kto był pierwszym królem Polski?",
+    "answer": "Bolesław Chrobry",
+    "category": "historia",
+    "difficulty": "średni"
+  },
+  {
+    "question": "W którym roku upadło Cesarstwo Rzymskie?",
+    "answer": "476",
+    "category": "historia",
+    "difficulty": "średni"
+  },
+  {
+    "question": "Kto odkrył Amerykę?",
+    "answer": "Krzysztof Kolumb",
+    "category": "historia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Bitwa pod Grunwaldem odbyła się w roku?",
+    "answer": "1410",
+    "category": "historia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Jakiego języka używa się do stylowania stron WWW?",
+    "answer": "CSS",
+    "category": "programowanie",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Co oznacza skrót HTML?",
+    "answer": "HyperText Markup Language",
+    "category": "programowanie",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Jaka jest podstawowa jednostka informacji w informatyce?",
+    "answer": "Bit",
+    "category": "programowanie",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Która instrukcja w JavaScript służy do deklaracji zmiennej?",
+    "answer": "let, const lub var",
+    "category": "programowanie",
+    "difficulty": "średni"
+  },
+  {
+    "question": "Jak nazywa się najpopularniejszy system kontroli wersji?",
+    "answer": "Git",
+    "category": "programowanie",
+    "difficulty": "średni"
+  },
+  {
+    "question": "skibidi toaleta",
+    "answer": "tak",
+    "category": "historia",
+    "difficulty": "trudny"
+  },
+  {
+    "question": "Na jakim kontynencie leży Egipt?",
+    "answer": "Afryka",
+    "category": "geografia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "W jakim roku Polska odzyskała niepodległość?",
+    "answer": "1918",
+    "category": "historia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Kiedy miała miejsce bitwa pod Grunwaldem?",
+    "answer": "1410",
+    "category": "historia",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Czym jest HTML?",
+    "answer": "Język znaczników do tworzenia stron internetowych",
+    "category": "programowanie",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Co oznacza skrót CSS?",
+    "answer": "Cascading Style Sheets",
+    "category": "programowanie",
+    "difficulty": "łatwy"
+  },
+  {
+    "question": "Która metoda w JavaScript wyświetla coś w konsoli?",
+    "answer": "console.log()",
+    "category": "programowanie",
+    "difficulty": "średni"
+  },
+  {
+    "question": "Jaką wartość logiczną zwraca operator === przy porównaniu różnych typów?",
+    "answer": "false",
+    "category": "programowanie",
+    "difficulty": "średni"
+  },
+  {
+    "question": "Czym jest pętla for?",
+    "answer": "Instrukcja powtarzająca blok kodu określoną liczbę razy",
+    "category": "programowanie",
+    "difficulty": "średni"
+  },
+  {
+    "question": "wow",
+    "answer": "wow",
+    "category": "geografia",
+    "difficulty": "trudny"
+  },
+  {
+    "question": "wow",
+    "answer": "xdd",
+    "category": "historia",
+    "difficulty": "łatwy"
+  }
+]

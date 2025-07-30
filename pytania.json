@@ -1,0 +1,78 @@
+[
+    {
+      "question": "Stolica Polski?",
+      "answer": "Warszawa",
+      "category": "geografia"
+    },
+    {
+      "question": "Najwyższa góra świata?",
+      "answer": "Mount Everest",
+      "category": "geografia"
+    },
+    {
+      "question": "Najdłuższa rzeka w Europie?",
+      "answer": "Wołga",
+      "category": "geografia"
+    },
+    {
+      "question": "Państwo o największej liczbie ludności?",
+      "answer": "Chiny",
+      "category": "geografia"
+    },
+    {
+      "question": "Na jakim kontynencie leży Egipt?",
+      "answer": "Afryka",
+      "category": "geografia"
+    },
+    {
+      "question": "W którym roku wybuchła II wojna światowa?",
+      "answer": "1939",
+      "category": "historia"
+    },
+    {
+      "question": "Kto był pierwszym królem Polski?",
+      "answer": "Bolesław Chrobry",
+      "category": "historia"
+    },
+    {
+      "question": "W którym roku upadło Cesarstwo Rzymskie?",
+      "answer": "476",
+      "category": "historia"
+    },
+    {
+      "question": "W jakim roku Polska odzyskała niepodległość?",
+      "answer": "1918",
+      "category": "historia"
+    },
+    {
+      "question": "Kiedy miała miejsce bitwa pod Grunwaldem?",
+      "answer": "1410",
+      "category": "historia"
+    },
+    {
+      "question": "Czym jest HTML?",
+      "answer": "Język znaczników do tworzenia stron internetowych",
+      "category": "programowanie"
+    },
+    {
+      "question": "Co oznacza skrót CSS?",
+      "answer": "Cascading Style Sheets",
+      "category": "programowanie"
+    },
+    {
+      "question": "Która metoda w JavaScript wyświetla coś w konsoli?",
+      "answer": "console.log()",
+      "category": "programowanie"
+    },
+    {
+      "question": "Jaką wartość logiczną zwraca operator === przy porównaniu różnych typów?",
+      "answer": "false",
+      "category": "programowanie"
+    },
+    {
+      "question": "Czym jest pętla for?",
+      "answer": "Instrukcja powtarzająca blok kodu określoną liczbę razy",
+      "category": "programowanie"
+    }
+  ]
+  

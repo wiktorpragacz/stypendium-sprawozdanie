@@ -2,6 +2,7 @@
   "name": "electron-quick-start",
   "version": "1.0.0",
   "description": "Nauka z fiszkami",
+  "author": {"name": "Wiktor Pragacz"},
   "main": "main.js",
   "build": {
   "appId": "com.fiszki",

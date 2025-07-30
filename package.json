@@ -1,12 +1,31 @@
 {
   "name": "electron-quick-start",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "Nauka z fiszkami",
   "main": "main.js",
+  "build": {
+  "appId": "com.fiszki",
+  "productName": "Fiszki",
+  "files": [
+    "**/*",
+    "!node_modules/*/{CHANGELOG.md,README.md,README,readme.md,readme}",
+    "!**/.*",
+    "!*.map"
+  ],
+  "win": {
+    "target": "nsis"
+  },
+  "mac": {
+    "target": "dmg"
+  }
+}
+,
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-builder"
   },
   "devDependencies": {
-    "electron": "^37.2.1"
+    "electron": "^37.2.1",
+    "electron-builder": "^26.0.12"
   }
 }

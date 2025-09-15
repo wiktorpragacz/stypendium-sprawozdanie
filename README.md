@@ -33,3 +33,18 @@
 ![Tryb nauki](screenshots/tryb-nauki.png)
 
 ---
+
+## Uruchamianie projektu
+
+###
+    git clone https://github.com/wiktorpragacz/stypendium-sprawozdanie
+    cd stypendium-sprawozdanie
+###
+
+###
+    npm install
+###
+
+###
+    npm start
+###

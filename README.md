@@ -1,6 +1,6 @@
-# 📚 FlashStudy – Aplikacja do nauki z fiszkami
+# 📚 Aplikacja do nauki z fiszkami
 
-**FlashStudy** to elegancka aplikacja stworzona w Electron.js, która pomaga w skutecznej nauce przy użyciu fiszek. Idealna do szybkiego powtarzania materiału przed sprawdzianem, egzaminem czy prezentacją.
+**FlashStudy** to aplikacja stworzona w Electron.js, która pomaga w skutecznej nauce przy użyciu fiszek. Idealna do szybkiego powtarzania materiału przed sprawdzianem, egzaminem czy prezentacją.
 
 ---
 

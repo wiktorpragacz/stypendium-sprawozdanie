@@ -34,7 +34,7 @@
 
 ---
 
-## Uruchamianie projektu
+## 🚀 Uruchamianie projektu
 
 ###
     git clone https://github.com/wiktorpragacz/stypendium-sprawozdanie
